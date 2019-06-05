@@ -13,8 +13,8 @@ install.packages(c("R.cache","dplyr","foreach","data.table","lubridate","sp", ..
 ```
 
 - Adapt URLs for Database in following files:
-..- autoCacheReload.R
-..- updateMongoSchemaScript.R
-..- databaseconnector.R
+  * autoCacheReload.R
+  * updateMongoSchemaScript.R
+  * databaseconnector.R
 
 - Adapt URL to your Backend in "/helper/rest.R"
