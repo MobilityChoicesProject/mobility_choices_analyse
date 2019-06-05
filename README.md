@@ -17,4 +17,4 @@ install.packages(c("R.cache","dplyr","foreach","data.table","lubridate","sp", ..
   * updateMongoSchemaScript.R
   * databaseconnector.R
 
-- Adapt URL to your Backend in "/helper/rest.R"
+- Adapt URL to your backend in "/helper/rest.R"
